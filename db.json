@@ -1,10 +1,12 @@
-[
-  {
-    "id": 0,
-    "text": "hello"
-  },
-  {
-    "id": 1,
-    "text": "my-json-server"
-  }
-]
+{
+  "test": [
+    {
+      "id": 0,
+      "text": "hello"
+    },
+    {
+      "id": 1,
+      "text": "my-json-server"
+    }
+  ]
+}
